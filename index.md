@@ -1,3 +1,5 @@
+title: "trustays"
+description: "Staying at a homestay is an unmatchable experience. Bringing to you the trusted , best-in-class homestays in India"
 ## Welcome to GitHub Pages
 
 
