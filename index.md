@@ -131,7 +131,7 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-```mermaid
+mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
 Bob-->>John: How about you John?
@@ -141,7 +141,7 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
-```
+
 
 And this will produce a flow chart:
 
