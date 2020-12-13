@@ -7,6 +7,7 @@ image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
