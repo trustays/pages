@@ -1,21 +1,12 @@
 ---
-title: "trustays"
-description: "Staying at a homestay is an unmatchable experience. Bringing to you the trusted, best homestays in India"
-image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593_403471800724876_1817955678149178800_n.jpg?_nc_ht=instagram.fblr1-6.fna.fbcdn.net&_nc_ohc=lXQKiZsOPQ0AX-6cjxq&tp=1&oh=ae689f4318704edd298682b387c89e48&oe=5FFEDFF5"
+title: trustays
+description: >-
+  Staying at a homestay is an unmatchable experience. Bringing to you the
+  trusted, best homestays in India
+image: >-
+  https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593_403471800724876_1817955678149178800_n.jpg?_nc_ht=instagram.fblr1-6.fna.fbcdn.net&_nc_ohc=lXQKiZsOPQ0AX-6cjxq&tp=1&oh=ae689f4318704edd298682b387c89e48&oe=5FFEDFF5
+published: true
 ---
-<ul class="custom_title">
-  {% for post in site.posts limit:4 | sort: 'date' | reverse %}
-    <li>
-	    <a href="{{ post.url }}">
-		    <div {% if post.related_image %}
-			  style="background-image: url({{ post.related_image }})"
-			 {% endif %}>{{ post.title }}{{ post.excerpt }}
-		    </div>
-	     </a>      
-    </li>
-  {% endfor %}
-  <li><a href="/">All Posts</a></li>
-</ul>
 # Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
