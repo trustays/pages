@@ -14,6 +14,7 @@ image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593
 	     </a>      
     </li>
   {% endfor %}
+  <li><a href="/">All Posts</a></li>
 </ul>
 # Welcome to StackEdit!
 
