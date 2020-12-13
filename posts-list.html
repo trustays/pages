@@ -1,0 +1,13 @@
+<ul class="custom_title">
+  {% for post in site.posts limit:4 | sort: 'date' | reverse %}
+    <li>
+	    <a href="{{ post.url }}">
+		    <div {% if post.related_image %}
+			  style="background-image: url({{ post.related_image }})"
+			 {% endif %}>{{ post.title }}{{ post.excerpt }}
+		    </div>
+	     </a>      
+    </li>
+  {% endfor %}
+  <li><a href="/">All Posts</a></li>
+</ul>
