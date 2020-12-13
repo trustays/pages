@@ -7,7 +7,7 @@ image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-| 123 |568  |
+| 123 |568 |
 |--|--|
 | 123 |568  |
 | 2456 | 4556 |
