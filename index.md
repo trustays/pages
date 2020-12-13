@@ -7,7 +7,9 @@ image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593
   {% for post in site.posts limit:4 | sort: 'date' | reverse %}
     <li>
 	    <a href="{{ post.url }}">
-		    <div style="background-image: url({{ post.image }})">{{ post.title }}{{ post.excerpt }}
+		    <div {% if post.related_image %}
+			  style="background-image: url({{ post.image }})"
+			 {% endif %}>{{ post.title }}{{ post.excerpt }}
 		    </div>
 	     </a>      
     </li>
