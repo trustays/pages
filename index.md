@@ -12,8 +12,6 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 | 123 |568  |
 | 2456 | 4556 |
 
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/61MHW071s9k/0.jpg)(https://www.youtube.com/watch?v=61MHW071s9k)
-
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
