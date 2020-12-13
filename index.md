@@ -6,7 +6,10 @@ image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593
 <ul class="custom_title">
   {% for post in site.posts limit:4 | sort: 'date' | reverse %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}{{ post.excerpt }}</a>      
+	    <a href="{{ post.url }}">
+		    <div style="background-image: url({{ post.image }})">{{ post.title }}{{ post.excerpt }}
+		    </div>
+	     </a>      
     </li>
   {% endfor %}
 </ul>
