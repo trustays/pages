@@ -8,7 +8,7 @@ image: "https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593
     <li>
 	    <a href="{{ post.url }}">
 		    <div {% if post.related_image %}
-			  style="background-image: url({{ post.image }})"
+			  style="background-image: url({{ post.related_image }})"
 			 {% endif %}>{{ post.title }}{{ post.excerpt }}
 		    </div>
 	     </a>      
