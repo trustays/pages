@@ -1,5 +1,7 @@
 ---
 published: false
+related_image: >-
+  https://www.tubics.com/wp-content/uploads/2018/10/how-to-create-youtube-thumbnails-1.png
 ---
 ## Why Compromise on Hotels when you have homestays
 
