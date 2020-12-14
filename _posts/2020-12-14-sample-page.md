@@ -1,4 +1,4 @@
 ---
 title: sample-page
 ---
-##Hotels are in plenty , but homestays stand apart
+#Hotels are in plenty , but homestays stand apart
