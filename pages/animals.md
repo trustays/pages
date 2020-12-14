@@ -8,6 +8,5 @@ permalink: "/animals/"
   <li>
     <a href="{{animal.url}}"> {{ animal.name }}<a/>
   </li>
-  </li>
   {% endfor %}									 
 </ul>
