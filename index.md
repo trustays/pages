@@ -1,11 +1,7 @@
 ---
 title: trustays
-description: >-
-  Staying at a homestay is an unmatchable experience. Bringing to you the
-  trusted, best homestays in India
-image: >-
-  https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593_403471800724876_1817955678149178800_n.jpg?_nc_ht=instagram.fblr1-6.fna.fbcdn.net&_nc_ohc=lXQKiZsOPQ0AX-6cjxq&tp=1&oh=ae689f4318704edd298682b387c89e48&oe=5FFEDFF5
-published: true
+description: Staying at a homestay is an unmatchable experience. Bringing to you the  trusted, best homestays in India
+image: https://instagram.fblr1-6.fna.fbcdn.net/v/t51.2885-19/s320x320/130286593_403471800724876_1817955678149178800_n.jpg?_nc_ht=instagram.fblr1-6.fna.fbcdn.net&_nc_ohc=lXQKiZsOPQ0AX-6cjxq&tp=1&oh=ae689f4318704edd298682b387c89e48&oe=5FFEDFF5
 ---
 # Welcome to StackEdit!
 
