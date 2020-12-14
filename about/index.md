@@ -1,6 +1,5 @@
 ---
 title : About us
-layout: site
 ---
 # Welcome to StackEdit!
 
